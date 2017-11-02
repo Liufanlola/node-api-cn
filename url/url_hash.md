@@ -5,7 +5,7 @@
 
 ```js
 const { URL } = require('url');
-const myURL = new URL('https://example.org/foo#bar');
+const myURL = new URL(http://www.baidu.com');
 console.log(myURL.hash);
   // 输出 #bar
 
